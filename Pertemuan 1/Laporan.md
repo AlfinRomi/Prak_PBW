@@ -1,7 +1,7 @@
 ## 📌 Tugas 1 — Pertemuan 1 (Kalkulator & Biodata)
-Nama: _isi nama_
+Nama: Alfin Romi Setiawan
 
-NPM: _isi NPM_
+NPM: 4524210009
 
 Mata Kuliah: Prak. Pemrograman Berbasis Web
 
