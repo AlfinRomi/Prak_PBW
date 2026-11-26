@@ -111,12 +111,12 @@ Silakan lengkapi bagian di bawah ini dengan screenshot dari browser Anda:
 
 1. **Halaman Daftar Produk (`index.php`)**
    - URL: `http://localhost/pert%207/penjualan-mvc/index.php`
-   - (penjualan-mvc/screenshots/daftar-produk.png)
+   - ![Daftar Produk](screenshots/daftar-produk.png)
 
 2. **Halaman Tambah Produk (`index.php?action=create`)**
    - URL: `http://localhost/pert%207/penjualan-mvc/index.php?action=create`
-   - (penjualan-mvc/screenshots/tambah-produk.png)
+   - ![Tambah Produk](screenshots/tambah-produk.png)
 
 3. **Halaman Edit Produk (`index.php?action=edit&id=1`)**
    - URL: `http://localhost/pert%207/penjualan-mvc/index.php?action=edit&id=1`
-   - (penjualan-mvc/screenshots/edit-produk.png)
+   - ![Edit Produk](screenshots/edit-produk.png)
