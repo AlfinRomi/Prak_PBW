@@ -2,23 +2,22 @@
 
 > **Mata Kuliah:** Pemrograman Berbasis Web  
 > **Topik:** Desain Skema Relasional Lanjutan (Mahasiswa, Dosen, Mata Kuliah, KRS, Prodi) & Constraint Cascade di MariaDB/MySQL  
-> **File SQL:** [`akademik1(2).sql`](./akademik1(2).sql)  
-> **Nama Mahasiswa:** `[Isi Nama Anda]`  
-> **NPM:** `[Isi NPM Anda]`  
-> **Kelas:** `[Isi Kelas Anda]`
+> **File SQL:** [`akademik1.sql`](./akademik1.sql)  
+> **Nama Mahasiswa:** `[Alfin Romi Setiawan]`  
+> **NPM:** `[4524210009]`  
 
 ---
 
 ## 1. Eksekusi Seluruh Contoh Pertemuan 4 (Tanpa Error Kritis)
 
-Seluruh definisi tabel, indeks, *composite unique key*, dan *foreign key constraint* pada database `akademik1` telah dijalankan menggunakan **XAMPP (MariaDB 10.4.32 & phpMyAdmin 5.2.1)** dan diekspor ke berkas [`akademik1(2).sql`](./akademik1(2).sql) tanpa error kritis.
+Seluruh definisi tabel, indeks, *composite unique key*, dan *foreign key constraint* pada database `akademik1` telah dijalankan menggunakan **XAMPP (MariaDB 10.4.32 & phpMyAdmin 5.2.1)** dan diekspor ke berkas [`akademik1(2).sql`](./akademik1.sql) tanpa error kritis.
 
 ### Cara Menjalankan di XAMPP / phpMyAdmin
 
 1. Jalankan modul **Apache** dan **MySQL** melalui **XAMPP Control Panel**.
 2. Buka browser dan akses `http://localhost/phpmyadmin`.
 3. Buat database baru bernama `akademik1` dengan collation `utf8mb4_general_ci`.
-4. Pilih tab **Import**, pilih berkas `akademik1(2).sql`, lalu klik **Go / Import**.
+4. Pilih tab **Import**, pilih berkas `akademik1.sql`, lalu klik **Go / Import**.
 
 ### Ringkasan Struktur 5 Tabel pada `akademik1`
 
@@ -173,8 +172,6 @@ Berikut adalah **modifikasi bermakna** pada rancangan database `akademik1` serta
 ---
 
 ## 4. Screenshot Sebelum dan Sesudah Modifikasi
-
-> **Catatan:** Letakkan file screenshot hasil eksekusi dari phpMyAdmin/Designer/SQL tab Anda ke dalam folder `screenshots/` di direktori `pert 4/` sesuai nama berkas di bawah ini sebelum *push* ke GitHub.
 
 ### Sebelum Modifikasi (Skema Awal Sebelum Relasi Lengkap / Tabel `prodi`)
 
