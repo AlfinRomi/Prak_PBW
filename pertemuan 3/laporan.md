@@ -5,8 +5,6 @@
 > **File SQL:** [`akademik.sql`](./akademik.sql)  
 > **Nama Mahasiswa:** `[Alfin Romi Setiawan]`  
 > **NPM:** `[4524210009]`  
-> **Kelas:** `[Prak. Pemrograman Berbasis Web]`
-
 ---
 
 ## 1. Eksekusi Seluruh Contoh Pertemuan 3 (Tanpa Error Kritis)
