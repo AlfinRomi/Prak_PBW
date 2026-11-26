@@ -104,12 +104,7 @@ Class `ProdukController` menghubungkan `ProdukModel` dengan file view:
 
 ---
 
-## 6. Hasil Verifikasi & Screenshot Tugas
-
-### Status Verifikasi Teknis
-- Pemeriksaan sintaks PHP (`php -l`) pada seluruh 7 file di `penjualan-mvc` berhasil tanpa error (`No syntax errors detected`).
-- Database `penjualan` dan tabel `produk` berhasil dibuat di MySQL beserta 3 data awal.
-- Pengambilan screenshot otomatis melalui subagent browser gagal dijalankan karena keterbatasan kapasitas server model (`503 UNAVAILABLE`), sehingga screenshot tampilan browser perlu diambil manual setelah membuka URL lokal di atas.
+## 6.Screenshot Tugas
 
 ### Lampiran Screenshot
 Silakan lengkapi bagian di bawah ini dengan screenshot dari browser Anda:
